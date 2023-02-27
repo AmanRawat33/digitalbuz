@@ -26,10 +26,10 @@
   --bg-gradient-red: linear-gradient(to right, #ff2233, #ee1111);
 
   /* -- images -- */
-  --bg-cover: url("./assets/bgimg1.png");
-  --bg-image1: url("./assets/img1.png");
-  --bg-image2: url("./assets/img2.png");
-  --bg-image3: url("./assets/img3.png");
+  --bg-cover: url("./bgimg1.png");
+  --bg-image1: url("./img1.png");
+  --bg-image2: url("./img2.png");
+  --bg-image3: url("./img3.png");
 }
 /* ------------ /Variables ---------- */
 
